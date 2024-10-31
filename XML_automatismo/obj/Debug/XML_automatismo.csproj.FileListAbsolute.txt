@@ -1,0 +1,7 @@
+C:\Users\maromerm\source\repos\XML_automatismo\bin\Debug\XML_automatismo.exe.config
+C:\Users\maromerm\source\repos\XML_automatismo\bin\Debug\XML_automatismo.exe
+C:\Users\maromerm\source\repos\XML_automatismo\bin\Debug\XML_automatismo.pdb
+C:\Users\maromerm\source\repos\XML_automatismo\obj\Debug\XML_automatismo.csproj.AssemblyReference.cache
+C:\Users\maromerm\source\repos\XML_automatismo\obj\Debug\XML_automatismo.csproj.CoreCompileInputs.cache
+C:\Users\maromerm\source\repos\XML_automatismo\obj\Debug\XML_automatismo.exe
+C:\Users\maromerm\source\repos\XML_automatismo\obj\Debug\XML_automatismo.pdb
